@@ -42,6 +42,15 @@ if (wrapper) {
   });
 }
 
+// Google Ads — conversão no clique do checkout
+document.querySelectorAll('a[href*="ev.braip.com"]').forEach(btn => {
+  btn.addEventListener('click', () => {
+    if (typeof gtag === 'function') {
+      gtag('event', 'conversion', { send_to: 'AW-18124142964' });
+    }
+  });
+});
+
 // Smooth anchor scroll
 document.querySelectorAll('a[href^="#"]').forEach(a => {
   a.addEventListener('click', e => {
