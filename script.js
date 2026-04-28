@@ -42,7 +42,7 @@ if (wrapper) {
   });
 }
 
-// Google Ads — clique de saída (checkout)
+// Google Ads — clique de saída (WhatsApp)
 function gtag_report_conversion(url) {
   var callback = function () {
     if (typeof url !== 'undefined') {
@@ -56,7 +56,7 @@ function gtag_report_conversion(url) {
   return false;
 }
 
-document.querySelectorAll('a[href*="ev.braip.com"]').forEach(btn => {
+document.querySelectorAll('a[href*="wa.me"]').forEach(btn => {
   btn.addEventListener('click', (e) => {
     e.preventDefault();
 
