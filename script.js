@@ -42,12 +42,31 @@ if (wrapper) {
   });
 }
 
-// Google Ads — conversão no clique do checkout
-document.querySelectorAll('a[href*="ev.braip.com"]').forEach(btn => {
-  btn.addEventListener('click', () => {
-    if (typeof gtag === 'function') {
-      gtag('event', 'conversion', { send_to: 'AW-18124142964' });
+// Google Ads — clique de saída (checkout)
+function gtag_report_conversion(url) {
+  var callback = function () {
+    if (typeof url !== 'undefined') {
+      window.location = url;
     }
+  };
+  gtag('event', 'conversion', {
+    send_to: 'AW-18124142964/cW70CIqSn6QcEPTyocJD',
+    event_callback: callback
+  });
+  return false;
+}
+
+document.querySelectorAll('a[href*="ev.braip.com"]').forEach(btn => {
+  btn.addEventListener('click', (e) => {
+    e.preventDefault();
+
+    // Solicitar cotação
+    gtag('event', 'conversion', {
+      send_to: 'AW-18124142964/ROXOCLSbn6QcEPTyocJD'
+    });
+
+    // Clique de saída — redireciona após o evento
+    gtag_report_conversion(btn.href);
   });
 });
 
