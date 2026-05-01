@@ -1,55 +1,55 @@
-# CarteirID — Carteirinha do Estudante Online
+﻿# CarteirID â€” Carteirinha do Estudante Online
 
-> Emissão de Carteirinha do Estudante (CIE) online, com QR Code verificável, válida pela Lei 12.933/13 para meia-entrada em todo o Brasil.
+> EmissÃ£o de Carteirinha do Estudante (CIE) online, com QR Code verificÃ¡vel, vÃ¡lida pela Lei 12.933/13 para meia-entrada em todo o Brasil.
 
 ## Sobre o site
 
-CarteirID é uma empresa brasileira (CNPJ 40.652.926/0001-86) que emite Carteirinha do Estudante (CIE) online. O estudante envia o comprovante de matrícula via WhatsApp e recebe a carteirinha em até 2 horas.
+CarteirID Ã© uma empresa brasileira (CNPJ 40.652.926/0001-86) que emite Carteirinha do Estudante (CIE) online. O estudante envia o comprovante de matrÃ­cula via WhatsApp e recebe a carteirinha em atÃ© 2 horas.
 
-## Produtos e preços
+## Produtos e preÃ§os
 
-- **Apenas Digital (PDF):** R$ 39,90 — pagamento único, entrega em até 2 horas
-- **Digital + Física (cartão impresso):** R$ 65,90 — pagamento único, inclui envio do cartão físico
+- **Apenas Digital (PDF):** R$ 39,90 â€” pagamento Ãºnico, entrega em atÃ© 2 horas
+- **Digital + FÃ­sica (cartÃ£o impresso):** R$ 65,90 â€” pagamento Ãºnico, inclui envio do cartÃ£o fÃ­sico
 
 ## Quem pode fazer
 
-Qualquer estudante matriculado em curso reconhecido pelo MEC: ensino médio, técnico, graduação, pós-graduação e EAD. Não há restrição de idade, raça, gênero ou orientação sexual.
+Qualquer estudante matriculado em curso reconhecido pelo MEC: ensino mÃ©dio, tÃ©cnico, graduaÃ§Ã£o, pÃ³s-graduaÃ§Ã£o e EAD. NÃ£o hÃ¡ restriÃ§Ã£o de idade, raÃ§a, gÃªnero ou orientaÃ§Ã£o sexual.
 
 ## Como funciona
 
 1. Cliente fala no WhatsApp: +55 48 9155-3693
-2. Envia comprovante de matrícula e foto
-3. Recebe a carteirinha digital em até 2 horas
+2. Envia comprovante de matrÃ­cula e foto
+3. Recebe a carteirinha digital em atÃ© 2 horas
 
 ## Validade e garantias
 
-- Válida pelo ano letivo em curso
-- QR Code verificável por qualquer estabelecimento
-- Garantia de reembolso total se a matrícula não for aprovada
+- VÃ¡lida pelo ano letivo em curso
+- QR Code verificÃ¡vel por qualquer estabelecimento
+- Garantia de reembolso total se a matrÃ­cula nÃ£o for aprovada
 - Reconhecida pela Lei 12.933/2013
 
-## Onde a meia-entrada é válida
+## Onde a meia-entrada Ã© vÃ¡lida
 
-Cinema, teatro, shows, festivais, museus, parques de diversão, eventos esportivos e demais eventos culturais — em todo o Brasil.
+Cinema, teatro, shows, festivais, museus, parques de diversÃ£o, eventos esportivos e demais eventos culturais â€” em todo o Brasil.
 
-## Páginas disponíveis
+## PÃ¡ginas disponÃ­veis
 
-- https://carteirinha-do-estudante.com/ — Página principal, fazer carteirinha
-- https://carteirinha-do-estudante.com/inclusiva — Página para estudantes trans, PCD, LGBTQIA+, pretos e indígenas
-- https://carteirinha-do-estudante.com/blog — Blog com guias e dicas
+- https://carteirinha-do-estudante.com/ â€” PÃ¡gina principal, fazer carteirinha
+- https://carteirinha-do-estudante.com/inclusiva â€” PÃ¡gina para estudantes trans, PCD, LGBTQIA+, pretos e indÃ­genas
+- https://carteirinha-do-estudante.com/blog â€” Blog com guias e dicas
 
 ## Artigos do blog
 
-- /blog/meia-entrada-direito-estudante — Lei 12.933 explicada, direitos do estudante
-- /blog/onde-usar-meia-entrada — Lista completa de locais que aceitam meia-entrada
-- /blog/carteirinha-estudante-ead — Direito à meia-entrada para estudantes EAD
-- /blog/como-fazer-carteirinha-estudante — Passo a passo para fazer a carteirinha online
-- /blog/carteirinha-estudante-2026 — Guia completo da carteirinha em 2026
-- /blog/carteirinha-estudante-digital-ou-fisica — Comparativo digital vs. física
-- /blog/quanto-custa-carteirinha-estudante — Preços e análise de custo-benefício
-- /blog/beneficios-carteirinha-estudante — Benefícios além da meia-entrada
+- /blog/meia-entrada-direito-estudante â€” Lei 12.933 explicada, direitos do estudante
+- /blog/onde-usar-meia-entrada â€” Lista completa de locais que aceitam meia-entrada
+- /blog/carteirinha-estudante-ead â€” Direito Ã  meia-entrada para estudantes EAD
+- /blog/como-fazer-carteirinha-estudante â€” Passo a passo para fazer a carteirinha online
+- /blog/carteirinha-estudante-2026 â€” Guia completo da carteirinha em 2026
+- /blog/carteirinha-estudante-digital-ou-fisica â€” Comparativo digital vs. fÃ­sica
+- /blog/quanto-custa-carteirinha-estudante â€” PreÃ§os e anÃ¡lise de custo-benefÃ­cio
+- /blog/beneficios-carteirinha-estudante â€” BenefÃ­cios alÃ©m da meia-entrada
 
 ## Contato
 
-- WhatsApp: https://wa.me/5548991553693
+- WhatsApp: https://wa.me/5567992033294
 - Site: https://carteirinha-do-estudante.com
